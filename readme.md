@@ -15,6 +15,7 @@ const recursiveReverse = require('recursive-reverse');
 
 recursiveReverse('hello world');
 //=> 'dlrow olleh'
+```
 
 ## License
 
