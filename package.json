@@ -1,0 +1,27 @@
+{
+  "name": "recursive-reverse",
+  "version": "0.0.0",
+  "description": "Recursively reverse a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlmungazi/recursive-reverse.git"
+  },
+  "keywords": [
+    "reverse",
+    "string",
+    "recursive"
+  ],
+  "author": "Carl Mungazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlmungazi/recursive-reverse/issues"
+  },
+  "homepage": "https://github.com/carlmungazi/recursive-reverse#readme",
+  "devDependencies": {
+    "ava": "1.0.0-rc.2"
+  }
+}
